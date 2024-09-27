@@ -1,1 +1,1 @@
-# noxen_photomode
+1.0.0
